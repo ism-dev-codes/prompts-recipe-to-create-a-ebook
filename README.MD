@@ -36,15 +36,28 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre python, o ebook é do nicho de programação e o sub-nicho é de python, o título deve ser épico e curto, e tenha uma temática mais nerd inspirado na franquia star wars. Me liste 5 sugestões de título e subtítulo. |                                                        |
+| conteúdo | Você é uma autoridade em programação especializado na linguagem python. Você também é um especialista em criação de ebooks. Dito isso, crie um ebook, com foco em python. E o nome do ebook é: Python: O Lado Nerd da Força Desperta. 
+Regras:
+- Público alvo deste ebook são iniciantes da linguagem python.
+- O Ebook tem que ter toda a temática nerd, inspirado na franquia star was.
+- O ebook tem que ter índice.
+- O ebook têm que ter folhas divisórias de capítulos com o número de cada capitulo e tema do capito.
+- O ebook tem que ter 5 projetos baseados em star wars para os leitores criaram.
+O ebook tem que ter conclusão incentivando os leitores a continuar se desenvolvendo na linguagem python.
+- Estilo minimalista
+- O Ebook tem que ter a mesma paleta de cores da capa que criamos e seguir o mesmo padrão da diagramação de um ebook profissinal.
+
+Regras negativas:
+- O ebook não pode usar temos difíceis de entender.
+- O ebook não pode ser muito longo. |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | ebook cover design for "Python: O Lado Nerd da Força Desperta", cinematic sci-fi style inspired by Star Wars, futuristic coding theme, glowing neon green and blue lights, digital matrix effects, a silhouette of a young Jedi holding a lightsaber made of glowing Python code, space background with stars and data streams, high-tech typography for the title, dramatic lighting, soft shadows, sleek and modern composition, ultra detailed, 8k, epic atmosphere, concept art, trending on ArtStation --ar 2:3 --v 6 --style cinematic --q 2 --no text watermark, no signature |
 
 ## ✨ Features
 
