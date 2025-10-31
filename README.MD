@@ -55,7 +55,7 @@ Midjourney：
 
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
-- ebook diagramado no canva
+- ebook diagramado no Canva
 
 ## 🛠️ Instruções de execução
 
