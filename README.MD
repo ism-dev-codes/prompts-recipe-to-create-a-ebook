@@ -37,8 +37,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre python, o ebook é do nicho de programação e o sub-nicho é de python, o título deve ser épico e curto, e tenha uma temática mais nerd inspirado na franquia star wars. Me liste 5 sugestões de título e subtítulo. |                                                        |
-| conteúdo | Você é uma autoridade em programação especializado na linguagem python. Você também é um especialista em criação de ebooks. Dito isso, crie um ebook, com foco em python. E o nome do ebook é: Python: O Lado Nerd da Força Desperta. 
-Regras:
+| conteúdo | Você é uma autoridade em programação especializado na linguagem python. Você também é um especialista em criação de ebooks. Dito isso, crie um ebook, com foco em python. E o nome do ebook é: Python: O Lado Nerd da Força Desperta. Regras:
 - Público alvo deste ebook são iniciantes da linguagem python.
 - O Ebook tem que ter toda a temática nerd, inspirado na franquia star was.
 - O ebook tem que ter índice.
